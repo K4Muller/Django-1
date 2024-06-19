@@ -1,5 +1,7 @@
 # Django #
 comandos.txt
+projeto
+manage.py
 *.log
 *.pot
 *.pyc
