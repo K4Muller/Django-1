@@ -2,6 +2,7 @@
 comandos.txt
 projeto
 manage.py
+.vscode
 *.log
 *.pot
 *.pyc
